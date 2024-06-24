@@ -1,0 +1,69 @@
+{
+  "dc_attrs": [
+    {
+      "pool_size": 5000
+    },
+    {
+      "pool_size": 6000
+    },
+    {
+      "pool_size": 3000
+    },
+    {
+      "pool_size": 8000
+    }
+  ],
+  "hub_attrs": [
+    {
+      "cost": 20,
+      "bandwidth": 500
+    },
+    {
+      "cost": 25,
+      "bandwidth": 600
+    },
+    {
+      "cost": 30,
+      "bandwidth": 700
+    },
+    {
+      "cost": 35,
+      "bandwidth": 800
+    },
+    {
+      "cost": 40,
+      "bandwidth": 900
+    },
+    {
+      "cost": 45,
+      "bandwidth": 1000
+    }
+  ],
+  "max_users_attrs": [
+    {
+      "need": 100
+    },
+    {
+      "need": 150
+    },
+    {
+      "need": 200
+    },
+    {
+      "need": 250
+    },
+    {
+      "need": 300
+    },
+    {
+      "need": 350
+    },
+    {
+      "need": 50
+    },
+    {
+      "need": 135
+    }
+  ],
+  "max_seconds": 10
+}
